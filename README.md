@@ -170,4 +170,16 @@ This project is licensed under the [Team Martians License](LICENSE.md).
 ## Important Note
 The project cannot run without proper installation of dependencies. If any required package is missing, the project will not function as expected. Ensure all the prerequisites and configurations are correctly set up before running the project.
 
----
+# screen shots of the project
+
+![Screenshot 2024-09-29 141030](https://github.com/user-attachments/assets/e08bafdf-41dd-45a3-96f1-1ba93e03b2ae)
+![Screenshot 2024-09-29 141046](https://github.com/user-attachments/assets/2b7bd214-c589-4f74-ae37-0ad9b1a2cf69)
+![Screenshot 2024-09-29 141109](https://github.com/user-attachments/assets/ce6f3142-02e7-4ef7-a04b-7a5c1be06d5a)
+![Screenshot 2024-09-29 140800](https://github.com/user-attachments/assets/99a6d2b5-2899-4861-881c-e877a8fea67c)
+
+---![Screenshot 2024-09-29 140923](https://github.com/user-attachments/assets/e507320e-6779-4d53-aa5d-09e6db038d42)
+![Screenshot 2024-09-29 140936](https://github.com/user-attachments/assets/39c43603-5739-4676-8bee-ca7ff3def56a)
+![Screenshot 2024-09-29 141001](https://github.com/user-attachments/assets/1b75c042-3c69-47d2-90dd-98c3fd781f27)
+![Screenshot 2024-09-29 141012](https://github.com/user-attachments/assets/1a0b599c-a9f5-4618-bc9c-5d7b76506f6e)
+![Screenshot 2024-09-29 141020](https://github.com/user-attachments/assets/e20f9eba-8ceb-4c96-a2b7-e5662cdb959a)
+
