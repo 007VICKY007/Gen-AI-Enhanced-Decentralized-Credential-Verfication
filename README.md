@@ -25,7 +25,7 @@ Traditional credential verification is often time-consuming, prone to manipulati
 
 ### AI Integration:
 - **Model**: OpenAI’s GPT
-- **Recommendations**: Tailored career suggestions based on user data
+  
 
 ## Key Features
 - **Decentralized Credential Issuance and Verification**: Using smart contracts on the Polygon network.
@@ -40,6 +40,9 @@ Traditional credential verification is often time-consuming, prone to manipulati
 - **Blockchain**: Polygon Network, Solidity, Web3.js
 - **AI Integration**: OpenAI's GPT model
 - **Workflow Orchestration**: Orkes Conductor
+
+# Team Members 
+  ## Akshayaa S | Dharshini R | Naresh Raja M L | Vignesh Pandiya G | Vimal Srinivasan R
 
 ## Prerequisites
 - [Node.js (v14+)](https://nodejs.org/)
