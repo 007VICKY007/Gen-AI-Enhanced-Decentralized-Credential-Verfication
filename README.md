@@ -1,5 +1,5 @@
 
-#AI-Powered Credential Validation Network
+# AI-Powered Credential Validation Network
 
 This project aims to provide a decentralized, secure, and efficient platform for managing, verifying, and sharing academic and professional credentials using cutting-edge technologies like blockchain, NFTs, and generative AI.
 
