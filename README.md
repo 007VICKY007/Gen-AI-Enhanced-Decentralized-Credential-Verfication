@@ -41,9 +41,6 @@ Traditional credential verification is often time-consuming, prone to manipulati
 - **AI Integration**: OpenAI's GPT model
 - **Workflow Orchestration**: Orkes Conductor
 
-# Team Members 
-  ## Akshayaa S | Dharshini R | Naresh Raja M L | Vignesh Pandiya G | Vimal Srinivasan R
-
 ## Prerequisites
 - [Node.js (v14+)](https://nodejs.org/)
 - [MongoDB (v4.4+)](https://www.mongodb.com/)
